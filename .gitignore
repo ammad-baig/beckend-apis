@@ -1,0 +1,26 @@
+Frontend/node_modules
+Frontend/.env
+# Logs
+Beckend/logs
+Beckend/*.log
+Beckend/npm-debug.log*
+Beckend/yarn-debug.log*
+Beckend/yarn-error.log*
+Beckend/pnpm-debug.log*
+Beckend/lerna-debug.log*
+
+Beckend/node_modules
+Beckend/dist
+Beckend/dist-ssr
+Beckend/*.local
+
+# Editor directories and files
+Beckend/.vscode/*
+Beckend/!.vscode/extensions.json
+Beckend/.idea
+Beckend/.DS_Store
+Beckend/*.suo
+Beckend/*.ntvs*
+Beckend/*.njsproj
+Beckend/*.sln
+Beckend/*.sw?
